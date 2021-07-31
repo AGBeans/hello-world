@@ -1,6 +1,6 @@
 # hello-world
-My name is Arti, and this file is where I am learning about &amp; exploring GitHub.
-the .md file extension stands for "Markdown"? idk New to me. But here is a related link: https://fileinfo.com/extension/md
+My name is Arti, and this file is where I am learning about, &amp; exploring GitHub.
+The .md file extension stands for "Markdown"? idk New to me. But here is a related link: https://fileinfo.com/extension/md
 
 GitHub basics:
 (via the Hello World GitHub Guide:
